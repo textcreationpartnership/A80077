@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An epistle to be read in the assemblies of Gods people.</title>
+            <author>Coleman, Nathaniel.</author>
+         </titleStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80077</idno><idno type="EEBO-CITATION">45578267</idno>
+  <idno type="VID">172209</idno>
+  <idno type="EEBO-PROQUEST">2240897932</idno>
+  
+            <idno type="STC">Wing C5047</idno>
+            <idno type="STC">ESTC R171423</idno>
+            <idno type="OCLC">45578267</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A80077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172209)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2617:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An epistle to be read in the assemblies of Gods people.</title>
+                  <author>Coleman, Nathaniel.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1682]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Page 4 signed: Nathaniel Colman.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Page 7 dated: 1682.</note>
+                  <note>Reproduction of original in the Friends' Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Pastoral letters and charges.</term>
+               <term type="topical_term">Quakers --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:172209:1"/>
+            <head>AN EPISTLE To be read in the <hi>ASSEMBLIES</hi> OF Gods People.</head>
+            <p>TO All the <hi>Flock of God</hi> that are scattered abroad, I am moved of the Lord God to write, to warn them in his Name, not to slight the Day of their <hi>Visitation,</hi> which hasteneth greatly up<g ref="char:EOLhyphen"/>on all the Inhabitants of the Earth, and of the Sea, and of the Dry Land; to such I say, wait you to have your Vessels filled with the true Treasure, for <hi>God is truly filling the Hungry with Good Things, but is sending the Rich empty away:</hi> and you whom God hath filled with his Trea<g ref="char:EOLhyphen"/>sures and Vertue of Life, through which you are made alive to him, dwell in his Counsel at all times, that in all your Undertakings you may answer his Requirings in your own Particulars, for an account to him we must all give of our <hi>Stewardship:</hi> therefore in the Fear of the Lord God, I counsel you to follow his Requirings in every one of you, that by it you may be taught to do his Will in all Things you undertake, that so you may
+<pb n="2" facs="tcp:172209:2"/> prosper and grow to him as Trees of Righteousness, Plants of his own Right-hands Planting, for ye are the <hi>Garden</hi> of God, and his <hi>Husbandry,</hi> the <hi>Sheep</hi> of his <hi>Fold,</hi> and <hi>Flock</hi> of his <hi>Pasture,</hi> whom he is feeding with the Bread of Knowledge and Understanding of those things that belong to your everlasting Peace, therefore follow ye him in all his Requirings in your own Particulars, that so you may have right to the <hi>Tree of Life,</hi> which is in the midst of the <hi>Garden</hi> of God, and may enter in through the Gates into the <hi>City</hi> of our God, out of all the outward Observations, as, <hi>Lo here is Christ,</hi> or <hi>Lo there;</hi> for the Kingdom of God cometh not in outward Observati<g ref="char:EOLhyphen"/>ons, but is felt and known and enjoyed within; therefore all gather in from that that would draw out the Mind from God to observe Days or Times, or Months or Years, concerning any Matter or Business, but as you are inwardly drawn or required by the Truth in your own Particulars, that so you may be truely furnished with it, and enabled by it to act for God, and truely to do his Will in all things, who is worthy to be obeyed and observed in all things, who is the Head of the Body, and Church of the First-born, and over all ought to Rule and have the Preheminence, who is God blessed for evermore, <hi>Amen.</hi>
+            </p>
+            <p>Therefore Friends and Brethren, I beseech you and warn you all in his Name and Fear, slight nor the Day of his Visitation, which is the Light in your Consciences, which Christ Jesus hath enlightned you withal, which will open your Understandings towards God, and let you see his Mind and Will concerning you at all Times and Seasons, for Times and Seasons are in his hand, and he changeth them as he pleaseth, therefore keep you to the unlimited Truth and Spirit of God, that through it you may be truely seasoned to act for God, then will you have Praise of him; as you act for him, you will reach Gods Witness in all Consciences, and be a terrour to Evil Doers, and a Praise to them that do well; and therein well doing, God will own you, and you shall be a Dread and a Terrour to all the Workers of Iniquity that dwell upon the Earth, and the Fear of you, and the Dread of you will fall upon all the Inhabitants of the Earth, to their great Amaze<g ref="char:EOLhyphen"/>ment and Astonishment for ever: for our God is getting himself a Name above every Name, and to Him shall every Knee bow, both of Things in Heaven, and Things in the Earth, and under the Earth, and all Tongues shall confess that he is Lord of all, and over all the Works of his Hands, and must Rule and Reign for ever, and for evermore <hi>Amen.</hi>
+            </p>
+            <p>These Things lay upon me from God, and in Obedience to Him I have done this, in giving it forth, for God is Jealous of his Honour, and will not give it to another: <hi>My Glory</hi> (saith the Lord God) <hi>will I not give un<g ref="char:EOLhyphen"/>to another, but will put a hook into the Nostrils of all that go from Him, and the Guidance of his Good Spirit within them, into any Imaginations or Ʋnclean<g ref="char:EOLhyphen"/>ness</hi>
+               <pb n="3" facs="tcp:172209:2"/>
+               <hi>whatsoever, whereby they are defiled, for His Fann is in his Hand, and He will throughly purge his Flower, and gather his Wheat into his Garner, and he will burn up the Chaff with Ʋnquencheable Fire.</hi> Therefore all fear him who is able both to kill, and to cast into Hell-Fire, where the Worm never dy<g ref="char:EOLhyphen"/>eth, nor the Fire of Gods Indignation never goeth out, but remains for ever upon the Minds of such as disobey the Truth, which is the Earnest of their Everlasting Misery, that is their Portion for ever: But unto all you that have truly followed the Lamb in the Regeneration, and have washed your Robes, and have made them white in his Blood; unto you I say, who have kept your Garments clean, through the Inward Strength and Power you have received from him, keep your Habitations with him, and all wait to feel him lead you by the Rivers of Living Water, that you may be refresh<g ref="char:EOLhyphen"/>ed therewith, and grow thereby from Strength to Strength, and from one Degree of Grace unto another, until you all appear before Him in <hi>Sion,</hi> the Perfection of Beauty; for God is truly honouring of all them that truly honour Him, and have nothing in their Eyes but the Exaltation of his King<g ref="char:EOLhyphen"/>dom and Glory, and as it was declared in Times past, <hi>They that honour me, will I honour: but they that dis-esteem Me, shall be lightly esteemed.</hi> Therefore it behoves all to search their Hearts and try their Reins with the light of the Lord God, for he is searching <hi>Jerusalem</hi> with Candles, and bringing to Light the hidden things of <hi>Esau;</hi> for nothing can be acted ever so secretly, but it is known to the Lord altogether, for his Eye goeth through the whole Earth, and he pondereth the Hearts and Intents of the Sons of Men, for he weigh<g ref="char:EOLhyphen"/>eth the Earth as in <hi>Scales,</hi> and measureth the Heavens as with a <hi>Span,</hi> and rendreth to every Man a Reward according to their Works: Therefore all fear Him that hath set Bounds to the Sea by a perpetual Decree, <hi>Hitherto shalt thou go, and no farther.</hi> Although the proud Waves thereof roar, and the Billows swell, yet they cannot pass over, for the Determination of the Lord God will stand for ever, and he will set his King upon his Holy Hill of <hi>Sion,</hi> which is the City of our Solemnity, into which he is gathering his People from off all the barren Mountains and desolate Hills of Imaginations (wherein they have been acting for Him) to the true Knowledge of his Good Spirit, to Lead them and Guide them into the way of Life, &amp; Peace and Salvation, where Salvation is known for Walls and Bullwarks, into which the righteous Nation is entring; Glory, Glory, Glory to God on High, here Peace on Earth is truly known, and good Will towards all Men; yea, the good Will of God, that desireth not the Death of a Sinner, but rather that all should repent and live, <hi>For as I Live</hi> (saith the Lord God) <hi>I de<g ref="char:EOLhyphen"/>light not in the Death of him that dies, but rather there is more Joy in Heaven when one Sinner repenteth, than of the ninety nine that went not astray from the Fold of Rest, where the Lambs lye down together.</hi> Therefore Friends, be you
+<pb n="4" facs="tcp:172209:3"/> all pitiful and tender-hearted one towards another, that you may shew forth the Vertues of him that hath called you out of Darkness into his marvellous Light, that to the brightness of your rising, many may be gathered in this the Day of Gods everlasting Love and Kindness to the Sons and Daughters of Men, wherein he is redeeming a Remnant from under the Bondage of Corruption, and bringing them into the glorious Liberty of the Sons of God, where they come to witness Him to be their King, Lord, and Law<g ref="char:EOLhyphen"/>giver, from whom they receive their Command, and here he comes to Reign, whose Right it is to Rule all Nations as with a <hi>Rod of Iron,</hi> and to break them to pieces as a Potters Vessel, and happy are all you that by this, in your own Particulars, are broken into Tenderness before him, and bow<g ref="char:EOLhyphen"/>ed down out of all self Exaltation, or Lording over Gods Heritage, but are good Examples to the Flock, that when the chief Shepherd doth appear, you may appear with Him in Glory, that the Crown Immortal you all may wear, and that Kingdom you all may inherit, that never fades away, and with the Redeemed, may truly return to <hi>Sion</hi> with Songs, and everlasting Joy upon your Heads: here Sorrow and Mourning fleeth away, which was in the Night, when we were in Darkness, and in the Land of the Region of the Shadow of Death, unto us hath the Light shined, therefore while you have the Light, believe in it, that you may be the Children of it, <hi>That your Light may so shine before Men, that they seeing your good Works, may glorifie your Father which is in Heaven.</hi> And in this God Almighty keep you all in Faithfulness to himself for evermore, <hi>Amen▪</hi>
+            </p>
+            <p>And Dear Friends and Brethren, this is to put you in Mind how gracious God hath dealt, and is dealing with his People, whom he hath visited with a high Hand, and a strong Arm, in leading them out of <hi>Egypts</hi> Land, and through the <hi>Red-Sea,</hi> and through the <hi>Wilderness,</hi> towards the good Land of Rest and Peace, that in this our Journey none may be drawn out from the Guidance of Gods good Spirit within them, to joyn to any Form or Like<g ref="char:EOLhyphen"/>ness, or Appearance, although never so beautiful, but as you are led by the <hi>Pillar of the Cloud by Day,</hi> and the <hi>Pillar of Fire by Night,</hi> which shines in all your Hearts and Consciences, to the giving you Light in all your Dwelling-Places through the In-shining thereof, which guideth the Foot<g ref="char:EOLhyphen"/>steps of the Flock of his Companions, out of all Transgression and Rebel<g ref="char:EOLhyphen"/>lion against Him in their own Particulars, to run the Race with Patience, that is set before them, that so Victory and Dominion in the Truth all may enoy and partake of, to the judging down of all that is contrary to God in every Vessel that so the Sanctuary and Temple may be throughly Cleansed, Purged, and Purified, and made a fit Habitation for God to dwell in through the Spirit.</p>
+            <closer>
+               <dateline>
+                  <hi>SƲTTON,</hi>
+                  <date>
+                     <hi>the</hi> 17th <hi>day of the</hi> 9th, <hi>Month,</hi> 1675,</date>
+               </dateline>
+               <signed>Nathaniel Colman.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="postscript">
+            <pb n="5" facs="tcp:172209:3"/>
+            <head>A Postscript.</head>
+            <p>THe terrible Day of the Lord of Hosts is at Hand, to deliver those who have Mourned in <hi>Sion,</hi> because of the Oppressions of them that are turn<g ref="char:EOLhyphen"/>ed away from the Truth among the <hi>Flock of God,</hi> for the Abomination that they have committed in turning away from the Lord God, and following Mans Orders, and obey<g ref="char:EOLhyphen"/>ing them, and not Eying the Lord God of Life and Glory, but have let in upon them a Flood of Misery by departing from the Lord. Therefore he will break forth in his Wrath and in his Fury upon them, and they shall stink as Dung upon the Ground, and as the Street that no man passeth over because of the great Plague that is coming upon them, for the Lord that visited the Children of Men, did it to turn them to Himself, in order to deliver them from the Bondage of Corruption, that they might serve him in New<g ref="char:EOLhyphen"/>ness of Life all the Days of their Appointed Time here on Earth. Therefore let this be a Warning unto all them to
+<pb n="6" facs="tcp:172209:4"/> whom this may come, that the Lord will not be mocked, but such as every one fow, such shall they reap, they that sow to the Flesh, or Orders of other Mens Prescribing, shall reap a Crop of Corruption: but they that sow to the Spi<g ref="char:EOLhyphen"/>rit of the Lord, and are following its Directions, shall ob<g ref="char:EOLhyphen"/>tain that Life that is Everlasting. Therefore, Dear Friends, I desire you, as you will give an Account to God at the last Day; neglect not the great Salvation that hath been tendred unto us in our day, which is Christ Je<g ref="char:EOLhyphen"/>sus, the true Light, that lighteth every Man that cometh into the World, that thereby they may have Eternal Life, which is alone in the Son Christ Jesus Our Lord, in whom are all our Well-Springs, and that for ever more: and therefore, Dear Friends, cleave to Him, as you expect Life and Salvation in Him, in whom alone is Refuge for all his People, and was in all Ages and Generations from the Beginning until this Day; so as many as have entred into the Practice or Performance of any thing, and not by the Guidance of Gods Spirit, let them take heed that they do not provoke the Lord until his Wrath break forth against them, and they perish from the Knowledge of Him in their own Particulars; for, for want of that the People perish't in all Generations. And therefore all Friends, imbrace this Counsel which from the Lord is revealed unto me to deliver unto you before the day of your Visitation pass over, and there be no Time nor Place of Repentance, and the Things that belong to your Peace be hidden from you; so in love to all your Souls, I desire you all to be careful in all your Ʋnder<g ref="char:EOLhyphen"/>takings,
+<pb n="7" facs="tcp:172209:4"/> to have the Lord always before your Faces, and at your Right-Hand, that you thereby may be kept from be<g ref="char:EOLhyphen"/>ing moved from the Guidance of his Holy Spirit, that lead<g ref="char:EOLhyphen"/>eth into Truth, and out of all Errour into the Way of Life, and Path of Peace, in which, Redemption to the Soul is witnessed, where the Redeemed of the Lord praises him, un<g ref="char:EOLhyphen"/>to whom let Honour be given for evermore, because he is wor<g ref="char:EOLhyphen"/>thy, who is God over all, blessed for ever, <hi>AMEN.</hi>
+            </p>
+            <p>
+               <hi>This was upon me to Publish, together with the Epistle which I was moved to write in the Year</hi> 1675. <hi>the Publication whereof was then stopt by some, which I de<g ref="char:EOLhyphen"/>sire the Lord not to lay to their</hi> Charge.</p>
+            <closer>
+               <signed>N. C.</signed>
+               <dateline>
+                  <hi>Sutton,</hi>
+                  <date>
+                     <hi>the</hi> 21st. <hi>of the</hi> 9th. <hi>Mo.</hi> 1682.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
